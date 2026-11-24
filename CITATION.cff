@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use STISim, please cite the accompanying JOSS paper when available."
+title: "STISim: An agent-based simulation framework for sexually transmitted infections transmission and vaccination strategies"
+version: 0.1.0
+date-released: 2026-06-18
+authors:
+  - family-names: Deng
+    given-names: Qi
+license: Sanofi non-commercial license
+repository-code: "https://github.com/Sanofi-Public/STISim"
